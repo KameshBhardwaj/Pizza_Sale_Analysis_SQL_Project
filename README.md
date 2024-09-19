@@ -26,11 +26,7 @@ This project enhanced my SQL skills by allowing me to:
 -Utilize joins, aggregate functions, and subqueries to derive meaningful insights
 -Apply data analysis to solve real-world business challenges
 
-## Mentorship Credit
-Special thanks to **Ayushi Jain** from WsCube Tech, who guided me throughout this project. Her mentorship played a crucial role in enhancing my understanding of SQL and data analysis.
 
-## Project Files
-- **SQL Queries**: [Pizza Sales Analysis SQL Queries](link_to_your_sql_file)
-- **Project Report**: [Project Analysis Report](link_to_your_report_file)
-- **Data**: [Pizza Sales Data](link_to_your_data)
+
+
 
